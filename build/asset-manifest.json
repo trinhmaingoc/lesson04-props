@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lesson04-props/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/lesson04-props/static/js/main.f3ad1173.chunk.js",
+    "main.js.map": "/lesson04-props/static/js/main.f3ad1173.chunk.js.map",
+    "runtime-main.js": "/lesson04-props/static/js/runtime-main.50646b12.js",
+    "runtime-main.js.map": "/lesson04-props/static/js/runtime-main.50646b12.js.map",
+    "static/js/2.4f3804e8.chunk.js": "/lesson04-props/static/js/2.4f3804e8.chunk.js",
+    "static/js/2.4f3804e8.chunk.js.map": "/lesson04-props/static/js/2.4f3804e8.chunk.js.map",
+    "index.html": "/lesson04-props/index.html",
+    "precache-manifest.7d0a513d6bc512987ec9b84585c82168.js": "/lesson04-props/precache-manifest.7d0a513d6bc512987ec9b84585c82168.js",
+    "service-worker.js": "/lesson04-props/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/lesson04-props/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4f3804e8.chunk.js.LICENSE.txt": "/lesson04-props/static/js/2.4f3804e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50646b12.js",
+    "static/js/2.4f3804e8.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f3ad1173.chunk.js"
+  ]
+}
